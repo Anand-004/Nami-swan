@@ -1,0 +1,7 @@
+{
+  "voyage_id": "VOY-2026-0801",
+  "origin": {"name": "Port of Singapore", "lat": 1.2902, "lon": 103.8519},
+  "destination": {"name": "Port of Colombo", "lat": 6.9271, "lon": 79.8612},
+  "departure_time": "2026-09-01T06:00:00Z",
+  "required_arrival_deadline": "2026-09-06T18:00:00Z"
+}

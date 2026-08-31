@@ -1,0 +1,8 @@
+costs:
+  fuel_price_per_mt: 650.0       # USD per metric ton
+  co2_cost_per_mt: 90.0          # USD per metric ton of CO2
+  operational_hourly_rate: 450.0 # USD per hour
+  delay_penalty_hourly: 1200.0   # USD per hour past deadline
+  storm_risk_multiplier: 2.5     # Penalty factor for severe weather exposure
+emissions:
+  co2_factor_vlsfo: 3.114        # Tons of CO2 per ton of fuel

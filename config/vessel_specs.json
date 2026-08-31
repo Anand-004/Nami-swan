@@ -1,0 +1,12 @@
+{
+  "vessel_id": "CARGO-778",
+  "vessel_type": "Handymax Bulk Carrier",
+  "design_speed_knots": 14.0,
+  "min_speed_knots": 8.0,
+  "max_speed_knots": 16.5,
+  "rpm_min": 65,
+  "rpm_max": 105,
+  "fuel_type": "VLSFO",
+  "base_fuel_rate_mt_day": 24.5,
+  "max_wave_height_tolerance_m": 4.5
+}
