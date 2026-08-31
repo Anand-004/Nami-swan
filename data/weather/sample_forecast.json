@@ -1,0 +1,29 @@
+{
+  "forecast_id": "FCST-2026-09-01",
+  "generated_at": "2026-08-31T12:00:00Z",
+  "valid_from": "2026-09-01T00:00:00Z",
+  "valid_to": "2026-09-07T00:00:00Z",
+  "grid_resolution_deg": 1.0,
+  "grid_points": [
+    {"lat": 1.0, "lon": 103.0, "time": "2026-09-01T06:00:00Z", "wind_speed_kts": 8, "wind_dir_deg": 225, "wave_height_m": 1.2, "current_speed_kts": 0.5, "current_dir_deg": 45},
+    {"lat": 1.0, "lon": 101.0, "time": "2026-09-01T06:00:00Z", "wind_speed_kts": 10, "wind_dir_deg": 210, "wave_height_m": 1.5, "current_speed_kts": 0.4, "current_dir_deg": 30},
+    {"lat": 1.0, "lon": 99.0, "time": "2026-09-01T12:00:00Z", "wind_speed_kts": 12, "wind_dir_deg": 200, "wave_height_m": 1.8, "current_speed_kts": 0.6, "current_dir_deg": 350},
+    {"lat": 2.0, "lon": 98.0, "time": "2026-09-01T18:00:00Z", "wind_speed_kts": 15, "wind_dir_deg": 195, "wave_height_m": 2.0, "current_speed_kts": 0.5, "current_dir_deg": 340},
+    {"lat": 2.0, "lon": 96.0, "time": "2026-09-02T00:00:00Z", "wind_speed_kts": 18, "wind_dir_deg": 180, "wave_height_m": 2.5, "current_speed_kts": 0.7, "current_dir_deg": 330},
+    {"lat": 3.0, "lon": 94.0, "time": "2026-09-02T06:00:00Z", "wind_speed_kts": 14, "wind_dir_deg": 190, "wave_height_m": 2.2, "current_speed_kts": 0.4, "current_dir_deg": 315},
+    {"lat": 3.0, "lon": 92.0, "time": "2026-09-02T12:00:00Z", "wind_speed_kts": 20, "wind_dir_deg": 200, "wave_height_m": 2.8, "current_speed_kts": 0.8, "current_dir_deg": 300},
+    {"lat": 4.0, "lon": 90.0, "time": "2026-09-02T18:00:00Z", "wind_speed_kts": 22, "wind_dir_deg": 210, "wave_height_m": 3.0, "current_speed_kts": 0.9, "current_dir_deg": 290},
+    {"lat": 4.0, "lon": 88.0, "time": "2026-09-03T00:00:00Z", "wind_speed_kts": 16, "wind_dir_deg": 220, "wave_height_m": 2.4, "current_speed_kts": 0.6, "current_dir_deg": 280},
+    {"lat": 5.0, "lon": 86.0, "time": "2026-09-03T06:00:00Z", "wind_speed_kts": 25, "wind_dir_deg": 230, "wave_height_m": 3.5, "current_speed_kts": 1.0, "current_dir_deg": 270},
+    {"lat": 5.0, "lon": 84.0, "time": "2026-09-03T12:00:00Z", "wind_speed_kts": 30, "wind_dir_deg": 240, "wave_height_m": 4.2, "current_speed_kts": 1.2, "current_dir_deg": 260},
+    {"lat": 6.0, "lon": 83.0, "time": "2026-09-03T18:00:00Z", "wind_speed_kts": 20, "wind_dir_deg": 250, "wave_height_m": 3.0, "current_speed_kts": 0.8, "current_dir_deg": 250},
+    {"lat": 6.0, "lon": 82.0, "time": "2026-09-04T00:00:00Z", "wind_speed_kts": 18, "wind_dir_deg": 240, "wave_height_m": 2.6, "current_speed_kts": 0.7, "current_dir_deg": 240},
+    {"lat": 7.0, "lon": 81.0, "time": "2026-09-04T06:00:00Z", "wind_speed_kts": 15, "wind_dir_deg": 230, "wave_height_m": 2.0, "current_speed_kts": 0.5, "current_dir_deg": 230},
+    {"lat": 7.0, "lon": 80.0, "time": "2026-09-04T12:00:00Z", "wind_speed_kts": 10, "wind_dir_deg": 220, "wave_height_m": 1.5, "current_speed_kts": 0.3, "current_dir_deg": 220},
+    {"lat": 3.0, "lon": 96.0, "time": "2026-09-02T06:00:00Z", "wind_speed_kts": 35, "wind_dir_deg": 180, "wave_height_m": 5.5, "current_speed_kts": 1.5, "current_dir_deg": 300},
+    {"lat": 3.0, "lon": 98.0, "time": "2026-09-02T06:00:00Z", "wind_speed_kts": 28, "wind_dir_deg": 185, "wave_height_m": 4.0, "current_speed_kts": 1.1, "current_dir_deg": 310},
+    {"lat": 5.0, "lon": 90.0, "time": "2026-09-03T06:00:00Z", "wind_speed_kts": 32, "wind_dir_deg": 200, "wave_height_m": 4.8, "current_speed_kts": 1.3, "current_dir_deg": 275},
+    {"lat": 6.0, "lon": 85.0, "time": "2026-09-03T18:00:00Z", "wind_speed_kts": 12, "wind_dir_deg": 210, "wave_height_m": 1.8, "current_speed_kts": 0.4, "current_dir_deg": 265},
+    {"lat": 7.0, "lon": 82.0, "time": "2026-09-04T06:00:00Z", "wind_speed_kts": 8, "wind_dir_deg": 200, "wave_height_m": 1.0, "current_speed_kts": 0.3, "current_dir_deg": 240}
+  ]
+}
